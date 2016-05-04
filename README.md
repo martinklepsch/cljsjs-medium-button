@@ -1,4 +1,4 @@
-This is a package for MediumButton packaged in the same style as other CLJSJS packages except that it's provided under a different group/namespace.
+This is a package for [MediumButton](https://github.com/arcs-/MediumButton) packaged in the same style as other CLJSJS packages except that it's provided under a different artifact-id/namespace.
 
 ```yaml
 artifact-id: org.martinklepsch/cljsjs-medium-button

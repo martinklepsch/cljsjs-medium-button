@@ -12,8 +12,8 @@
  pom {:project     'org.martinklepsch/cljsjs-medium-button
       :version     +version+
       :description "MediumButton extends your Medium Editor with the possibility add buttons."
-      :url         "https://github.com/arcs-/MediumButton"
-      :scm         {:url "https://github.com/arcs-/MediumButton"}
+      :url         "https://github.com/martinklepsch/cljsjs-medium-button"
+      :scm         {:url "https://github.com/martinklepsch/cljsjs-medium-button"}
       :license     {"MIT" "http://opensource.org/licenses/MIT"}})
 
 (deftask package []
