@@ -6,7 +6,7 @@
 
 (def +commit+ "225390f882986a8a7aee786bde247b5b2122a40b")
 (def +lib-version+ (str "0.0.0-" +commit+))
-(def +version+ (str +lib-version+ "-1"))
+(def +version+ (str +lib-version+ "-2"))
 
 (task-options!
  pom {:project     'org.martinklepsch/cljsjs-medium-button
